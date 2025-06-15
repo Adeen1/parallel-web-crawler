@@ -93,8 +93,9 @@ def process_city(city):
 
 def main(user_input):
     results.clear()
-    cities = [c.strip() for c in user_input.split(",") if c.strip()]
 
+    cities = [c.strip() for c in user_input.split(",") if c.strip()]
+    print(cities)
     threads = []
     for city in cities:
      thread = threading.Thread(target=process_city, args=(city,))
