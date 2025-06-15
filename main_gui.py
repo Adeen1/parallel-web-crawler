@@ -33,7 +33,15 @@ SCRAPER_MAP = {
         "example": "e.g., AAPL, MSFT, GOOGL",
         "validation": r"^[A-Z]+(?:,\s*[A-Z]+)*$",
         "csv_filename": "results_stock_price.csv"
+    },
+    "ASN Data": {
+        "module": "scrape_asn_data",
+        "prompt": "Enter ASN Numbers range",
+        "example": "e.g., 1570-1579",
+        "validation": r"^[0-9]+-[0-9]+$",
+        "csv_filename": "results_asn_data.csv"
     }
+    
 }
 
 def validate_input(scraper_type, user_input):
