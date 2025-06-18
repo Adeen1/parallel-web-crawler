@@ -1,0 +1,6 @@
+symbol,source,price,change,percent_change
+AAPL,https://finance.yahoo.com/quote/AAPL,"5,976.97",-68.29,(-1.13%)
+MSFT,https://finance.yahoo.com/quote/MSFT,"5,976.97",-68.29,(-1.13%)
+GOOGL,https://finance.yahoo.com/quote/GOOGL,"5,976.97",-68.29,(-1.13%)
+AAPL,https://finance.yahoo.com/quote/AAPL,"5,992.25",+7.25,-2.64%
+AAPL,https://finance.yahoo.com/quote/AAPL,"5,992.25",+7.25,-2.64%

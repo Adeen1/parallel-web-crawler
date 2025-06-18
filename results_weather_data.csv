@@ -1,0 +1,5 @@
+city,temperature,condition,visibility,pressure,humidity,dew_point,forecast,timestamp,source
+usa/new-york,16 °C,Overcast.,14 km,1022 mbar,78%,12 °C,N/A,2025-06-15 16:01:11,https://www.timeanddate.com/weather/usa/new-york
+pakistan/lahore,40 °C,Broken clouds.,4 km,996 mbar,31%,20 °C,N/A,2025-06-15 16:01:11,https://www.timeanddate.com/weather/pakistan/lahore
+pakistan/lahore,36 °C,Passing clouds.,6 km,999 mbar,44%,22 °C,N/A,2025-06-18 11:54:04,https://www.timeanddate.com/weather/pakistan/lahore
+pakistan/lahore,36 °C,Passing clouds.,6 km,999 mbar,44%,22 °C,N/A,2025-06-18 11:54:33,https://www.timeanddate.com/weather/pakistan/lahore
